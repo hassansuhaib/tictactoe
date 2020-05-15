@@ -1,1 +1,1 @@
-renderStage()
+renderWelcome()
